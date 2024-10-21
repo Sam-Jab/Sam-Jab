@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working looking for an internship (FYP)  **
+ 🔭 **I’m currently working looking for an internship (FYP)**
  
  🌱 I’m currently learning **Spring boot, Angular, Oracle database**
 
-💬 Ask me about **Node.js, React,Laravel ... or anything **
+💬 Ask me about **Node.js, React,Laravel ... or anything**
 
 ⚡♟️ Fun fact **I'm a chess Player**
 
