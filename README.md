@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 **I’m currently working looking for an internship (FYP)**
+ 🔭 **I’m currently looking for an internship (FYP)**
  
  🌱 I’m currently learning **Spring boot, Angular, Oracle database**
 
